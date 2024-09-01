@@ -9,9 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^3.1.10",
     "express": "^4.19.2",
-    "express-handlebars": "^8.0.1",
+    "express-hbs": "^2.5.0",
     "handlebars": "^4.7.8"
   },
   "devDependencies": {
